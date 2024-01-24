@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(118, 96, 133);
+}    
+.signup-page{
+    position:absolute;
+    top: 21%;
+    left: 27%;
+    border: 6px solid rgb(65, 52, 65);
+    border-radius: 2em;
+    box-shadow:20px 17px 25px rgb(18, 13, 18);
+    padding: 2em;
+    text-align: center;
+    width: 30%;
+    height: 55%;
+    background-color: rgb(69, 44, 69);
+    color: white;
+}
+input{
+    margin: 10px;
+    width: 80%;
+}
+button{
+    background-color:rgb(182, 133, 229);
+    width: 42%;
+    cursor: pointer;
+    margin: 2%;
+    border-radius: 12em;
+}
+button:hover{
+    background-color: rgb(118, 96, 133);
+    color: aliceblue;
+}
